@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](github-header-image.png)
 
 ### Hi there 👋, my name is Amir Rezaei
 #### I am a third-year computer engineering student at Toronto Metropolitan University.
