@@ -1,4 +1,4 @@
-https://github.com/ARZ10/ARZ10/blob/main/computer-science-header-itb.png
+![Header](./your-header-image-name.png)
 
 ### Hi there 👋, my name is Amir Rezaei
 #### I am a third-year computer engineering student at Toronto Metropolitan University.
