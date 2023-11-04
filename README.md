@@ -1,6 +1,15 @@
-###  Hi, I'm Amir 👋🏻👨🏻‍💻
+### Hi there 👋, Hi, I'm Amir 👋🏻👨🏻‍💻
 #### Computer Engineering  At Toronto Metropolitan University
-![Computer Engineering  At Toronto Metropolitan University]((https://github.com/ARZ10/ARZ10/blob/main/Simple%20Technology%20LinkedIn%20Banner.png))
+![Computer Engineering  At Toronto Metropolitan University](https://github.com/ARZ10/ARZ10#:~:text=Simple%20Technology%20LinkedIn%20Banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
