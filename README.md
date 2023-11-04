@@ -4,7 +4,6 @@
 
 Skills: Python/ C (Programming Language)/ Java/  SQL/ Assembly Language
 
-- 🔭 I’m currently working on this page. 
 
 
 
