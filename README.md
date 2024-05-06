@@ -1,22 +1,12 @@
 # Hello, I'm Amir Rezaei 👋
 
 ## About Me
-- 🎓 Studying Computer Science at [Your University's Name]
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology or Topic]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 📫 How to reach me: [Your Email]
+- 🎓 Studying Computer Science at Toronto Metropolitan University 
+- 🔭 I’m currently working on AmirBABA
+- 🌱 I’m currently learning Containerized Programming and Supervised Machine Learning 
+- 👯 I’m looking to collaborate on AI/ML projects 
+- 📫 How to reach me: amirmohammad.rz2000@gmail.com
 
-## My Projects
-### [Project Title 1]
-- **Description:** Short description about what your project does.
-- **Technologies Used:** Java, Spring Boot, React
-- **[View Project](link to your project)**
-
-### [Project Title 2]
-- **Description:** Short description about what your project does.
-- **Technologies Used:** Python, Flask, Machine Learning
-- **[View Project](link to your project)**
 
 ## Skills
 - **Languages:** Python, Java, JavaScript
