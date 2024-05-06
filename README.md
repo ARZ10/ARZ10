@@ -1,15 +1,30 @@
+# Hello, I'm Amir Rezaei 👋
 
+## About Me
+- 🎓 Studying Computer Science at [Your University's Name]
+- 🔭 I’m currently working on [Project Name]
+- 🌱 I’m currently learning [Technology or Topic]
+- 👯 I’m looking to collaborate on [Type of Projects]
+- 📫 How to reach me: [Your Email]
 
-### Hi there 👋, my name is Amir Rezaei
-#### I am a third-year computer engineering student at Toronto Metropolitan University.
-👨‍💻 As a passionate third-year Computer Engineering student at Toronto Metropolitan University, I specialize in crafting efficient and user-friendly software solutions. With a strong foundation in Python, Java, C, and web development, I bring a blend of academic rigour and practical experience to the table. I thrive on collaborative projects, as demonstrated by my leadership in team endeavours and a consistent track record of process improvement initiatives. Check out my repositories for a peek into my academic projects and my journey through the intricate world of coding, from elegant algorithms to robust applications.
+## My Projects
+### [Project Title 1]
+- **Description:** Short description about what your project does.
+- **Technologies Used:** Java, Spring Boot, React
+- **[View Project](link to your project)**
 
-Skills: Python/ C (Programming Language)/ Java/  SQL/ Assembly Language
+### [Project Title 2]
+- **Description:** Short description about what your project does.
+- **Technologies Used:** Python, Flask, Machine Learning
+- **[View Project](link to your project)**
 
+## Skills
+- **Languages:** Python, Java, JavaScript
+- **Frameworks:** React, Spring Boot, Flask
+- **Tools:** Git, Docker, Kubernetes
 
+Feel free to check out my repositories and don't hesitate to reach out if you have any questions or opportunities!
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ARZ10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amir-rezaei-areng/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/amirrezaei79)  
 
 
 
