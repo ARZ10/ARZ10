@@ -12,7 +12,6 @@
 - **Languages:** Python, Java, C, C++, HTML, CSS, MATLAB, x86 Assembly Language, SQL
 - **Tools:** Git, Docker, Kubernetes, KubeMQ, Oracle, Gcload 
 
-Feel free to check out my repositories and don't hesitate to reach out if you have any questions or opportunities!
 
 
 
