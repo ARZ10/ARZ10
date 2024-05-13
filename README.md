@@ -1,7 +1,7 @@
 # Hello, I'm Amir Rezaei 👋
 
 ## About Me
-- 🎓 Studying Computer Science at Toronto Metropolitan University 
+- 🎓 Studying Computer Engineering at Toronto Metropolitan University 
 - 🔭 I’m currently working on a containerized web application
 - 🌱 I’m currently learning Containerized Programming and Supervised Machine Learning 
 - 👯 I’m looking to collaborate on AI/ML projects 
